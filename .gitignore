@@ -1,0 +1,35 @@
+# Secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw/private data
+data/raw/
+
+# Large generated artifacts
+models/*.pkl
+vector_store/*.index
+vector_store/*.pkl
+
+# Logs
+*.log
+
+# Streamlit secrets
+.streamlit/secrets.toml

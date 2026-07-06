@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+jupyter
+streamlit
+fastapi
+uvicorn
+joblib
+sentence-transformers
+faiss-cpu
+requests
+azure-storage-blob
+python-dotenv
